@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "LabProject.Api.Controllers.AuthorsController",
+    "Method": "AddAuthor",
+    "RelativePath": "api/authors/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "LabProject.Database.Dtos.Request.AddAuthorRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LabProject.Api.Controllers.SongsController",
+    "Method": "AddSong",
+    "RelativePath": "api/songs/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "LabProject.Database.Dtos.Request.AddSongRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
