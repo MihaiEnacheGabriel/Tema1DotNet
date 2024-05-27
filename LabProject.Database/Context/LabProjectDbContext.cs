@@ -7,6 +7,8 @@ namespace LabProject.Database.Context
     {
         public DbSet<Author> Authors { get; set; }
         public DbSet<Song> Songs { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -14,6 +16,14 @@ namespace LabProject.Database.Context
                 .HasMany(a => a.Songs)
                 .WithOne(s => s.Author)
                 .HasForeignKey(s => s.AuthorId);
+
+            modelBuilder.Entity<User>()
+                .HasOne(u => u.Role)
+                .WithMany(r => r.Users)
+                .HasForeignKey(u => u.RoleId);
+
+           
+            base.OnModelCreating(modelBuilder);
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

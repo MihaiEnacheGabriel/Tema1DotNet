@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qxwPXygC/f5U8xm7zuOlfBu5N3LWbaKPHtb9/KEp7SKZ23AMI04so+XmcUGVxTcpRviGw4fw8ndjXIHZNyHTIg==",
+  "dgSpecHash": "oYqOlRH4RMGas5ggVo0ERMK/4afSNs2qElWxFpZ1LiK+C7Z3JqgTNJaJmYGzff+Jcf7IFuzJq1S2JYsylSyu7Q==",
   "success": true,
-  "projectFilePath": "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Api\\LabProject.Api.csproj",
+  "projectFilePath": "D:\\Tema1DotNet\\LabProject.Api\\LabProject.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mihai\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Mihai\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

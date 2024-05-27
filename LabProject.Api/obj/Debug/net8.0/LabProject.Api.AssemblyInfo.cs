@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabProject.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3880c736ef977ef0473627381ab547d352b39d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fb02653f8ff2c7478d70b64906f119449088723")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabProject.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabProject.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

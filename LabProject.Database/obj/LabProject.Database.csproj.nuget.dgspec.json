@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Database\\LabProject.Database.csproj": {}
+    "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj": {}
   },
   "projects": {
-    "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Database\\LabProject.Database.csproj": {
+    "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Database\\LabProject.Database.csproj",
+        "projectUniqueName": "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj",
         "projectName": "LabProject.Database",
-        "projectPath": "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Database\\LabProject.Database.csproj",
+        "projectPath": "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj",
         "packagesPath": "C:\\Users\\Mihai\\.nuget\\packages\\",
-        "outputPath": "D:\\VSProjects\\.NET\\dotnet-2024-unitbv\\LabProject.Database\\obj\\",
+        "outputPath": "D:\\Tema1DotNet\\LabProject.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

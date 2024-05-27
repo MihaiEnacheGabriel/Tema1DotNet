@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LabProject.Core
-build_property.ProjectDir = D:\VSProjects\.NET\dotnet-2024-unitbv\LabProject.Core\
+build_property.ProjectDir = D:\Tema1DotNet\LabProject.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

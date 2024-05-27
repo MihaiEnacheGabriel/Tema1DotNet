@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tema1DotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527202842_tema2pw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabProject.Database\\Migrations\\20240527202842_tema2pw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\context\\labprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\context\\labprojectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\migrations\\20240423200000_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\migrations\\20240423200000_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\migrations\\labprojectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\migrations\\labprojectdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\common\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\common\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\common\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\request\\addauthorsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\request\\addauthorsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527200246_tema2pw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabProject.Database\\Migrations\\20240527200246_tema2pw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\common\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\common\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\mapping\\authorsmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\mapping\\authorsmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\response\\getauthordetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\response\\getauthordetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\response\\getauthorsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\response\\getauthorsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\response\\getsongsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\response\\getsongsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\request\\addsongrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\request\\addsongrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\repositories\\songsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\repositories\\songsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\repositories\\authorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\repositories\\authorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527194857_tema2final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabProject.Database\\Migrations\\20240527194857_tema2final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\services\\authorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\mapping\\songsmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\mapping\\songsmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\common\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\common\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\response\\getsongdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\response\\getsongdetailsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\request\\sortingcriteriondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\request\\sortingcriteriondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\request\\getsongsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\request\\getsongsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\dtos\\request\\getauthorsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\dtos\\request\\getauthorsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\services\\songsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\services\\songsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\labproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\labproject.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|d:\\tema1dotnet\\labproject.database\\labproject.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4090A390-8391-442A-8795-D9680E935DC1}|LabProject.Database\\LabProject.Database.csproj|solutionrelative:labproject.database\\labproject.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\startupconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\startupconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\labproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\labproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|d:\\tema1dotnet\\labproject.core\\labproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2F2B0F5-D543-46EA-931F-AD1709F3FB99}|LabProject.Core\\LabProject.Core.csproj|solutionrelative:labproject.core\\labproject.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|d:\\tema1dotnet\\labproject.api\\migrations\\20240527190608_tema2something.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF4104-8F79-48D6-8C6E-A3FAE5F03961}|LabProject.Api\\LabProject.Api.csproj|solutionrelative:labproject.api\\migrations\\20240527190608_tema2something.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240527202842_tema2pw.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527202842_tema2pw.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Migrations\\20240527202842_tema2pw.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527202842_tema2pw.cs",
+              "RelativeToolTip": "LabProject.Database\\Migrations\\20240527202842_tema2pw.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:28:43.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabProjectDbContext.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Context\\LabProjectDbContext.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Context\\LabProjectDbContext.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Context\\LabProjectDbContext.cs",
+              "RelativeToolTip": "LabProject.Database\\Context\\LabProjectDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:23:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Common\\ResponseDto.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\ResponseDto.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Common\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:49:15.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Entities\\Role.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Role.cs",
+              "RelativeToolTip": "LabProject.Database\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:20:31.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Entities\\User.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\User.cs",
+              "RelativeToolTip": "LabProject.Database\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:20:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "LabProject.Database\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:54.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Entities\\Song.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Song.cs",
+              "RelativeToolTip": "LabProject.Database\\Entities\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:53.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Entities\\Author.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Entities\\Author.cs",
+              "RelativeToolTip": "LabProject.Database\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:17.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240423200000_mig.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240423200000_mig.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Migrations\\20240423200000_mig.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240423200000_mig.cs",
+              "RelativeToolTip": "LabProject.Database\\Migrations\\20240423200000_mig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:07:46.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LabProjectDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\LabProjectDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Migrations\\LabProjectDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\LabProjectDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LabProject.Database\\Migrations\\LabProjectDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:08:47.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:25:48.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\RoleRepository.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:26:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\RequestDto.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Common\\RequestDto.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\RequestDto.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Common\\RequestDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:48:54.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "LabProject.Core\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "LabProject.Core\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:40:11.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddAuthorsRequest.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\AddAuthorsRequest.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Request\\AddAuthorsRequest.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\AddAuthorsRequest.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Request\\AddAuthorsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:47.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "LabProject.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:41:08.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240527200246_tema2pw.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527200246_tema2pw.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Migrations\\20240527200246_tema2pw.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527200246_tema2pw.cs",
+              "RelativeToolTip": "LabProject.Database\\Migrations\\20240527200246_tema2pw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:02:47.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorsMappingExtensions.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\Mapping\\AuthorsMappingExtensions.cs",
+              "RelativeDocumentMoniker": "LabProject.Core\\Mapping\\AuthorsMappingExtensions.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\Mapping\\AuthorsMappingExtensions.cs",
+              "RelativeToolTip": "LabProject.Core\\Mapping\\AuthorsMappingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:13.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SongDto.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\SongDto.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Common\\SongDto.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\SongDto.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Common\\SongDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:10:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAuthorDetailsResponse.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetAuthorDetailsResponse.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Response\\GetAuthorDetailsResponse.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetAuthorDetailsResponse.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Response\\GetAuthorDetailsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:10:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAuthorsResponse.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetAuthorsResponse.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Response\\GetAuthorsResponse.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetAuthorsResponse.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Response\\GetAuthorsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:50:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetSongsResponse.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetSongsResponse.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Response\\GetSongsResponse.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetSongsResponse.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Response\\GetSongsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:50:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddSongRequest.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\AddSongRequest.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Request\\AddSongRequest.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\AddSongRequest.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Request\\AddSongRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:51.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SongsRepository.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\SongsRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\SongsRepository.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\SongsRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\SongsRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:26:11.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:26:08.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorsRepository.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\AuthorsRepository.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Repositories\\AuthorsRepository.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Repositories\\AuthorsRepository.cs",
+              "RelativeToolTip": "LabProject.Database\\Repositories\\AuthorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:26:16.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240527194857_tema2final.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527194857_tema2final.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Migrations\\20240527194857_tema2final.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Migrations\\20240527194857_tema2final.cs",
+              "RelativeToolTip": "LabProject.Database\\Migrations\\20240527194857_tema2final.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:48:58.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthorsService.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\Services\\AuthorsService.cs",
+              "RelativeDocumentMoniker": "LabProject.Core\\Services\\AuthorsService.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\Services\\AuthorsService.cs",
+              "RelativeToolTip": "LabProject.Core\\Services\\AuthorsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240527190608_tema2something.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\Migrations\\20240527190608_tema2something.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\Migrations\\20240527190608_tema2something.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\Migrations\\20240527190608_tema2something.cs",
+              "RelativeToolTip": "LabProject.Api\\Migrations\\20240527190608_tema2something.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:06:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SongsMappingExtensions.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\Mapping\\SongsMappingExtensions.cs",
+              "RelativeDocumentMoniker": "LabProject.Core\\Mapping\\SongsMappingExtensions.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\Mapping\\SongsMappingExtensions.cs",
+              "RelativeToolTip": "LabProject.Core\\Mapping\\SongsMappingExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:18.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Common\\AuthorDto.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Common\\AuthorDto.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Common\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:10:32.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetSongDetailsResponse.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetSongDetailsResponse.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Response\\GetSongDetailsResponse.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Response\\GetSongDetailsResponse.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Response\\GetSongDetailsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:10:13.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SortingCriterionDto.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\SortingCriterionDto.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Request\\SortingCriterionDto.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\SortingCriterionDto.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Request\\SortingCriterionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:10:03.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetSongsRequest.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\GetSongsRequest.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Request\\GetSongsRequest.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\GetSongsRequest.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Request\\GetSongsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAuthorsRequest.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\GetAuthorsRequest.cs",
+              "RelativeDocumentMoniker": "LabProject.Database\\Dtos\\Request\\GetAuthorsRequest.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\Dtos\\Request\\GetAuthorsRequest.cs",
+              "RelativeToolTip": "LabProject.Database\\Dtos\\Request\\GetAuthorsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:55.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SongsService.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\Services\\SongsService.cs",
+              "RelativeDocumentMoniker": "LabProject.Core\\Services\\SongsService.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\Services\\SongsService.cs",
+              "RelativeToolTip": "LabProject.Core\\Services\\SongsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:09:24.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LabProject.Database.csproj",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj",
+              "RelativeDocumentMoniker": "LabProject.Database\\LabProject.Database.csproj",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Database\\LabProject.Database.csproj",
+              "RelativeToolTip": "LabProject.Database\\LabProject.Database.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T18:09:04.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\Program.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\Program.cs",
+              "RelativeToolTip": "LabProject.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StartupConfig.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\StartupConfig.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\StartupConfig.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\StartupConfig.cs",
+              "RelativeToolTip": "LabProject.Api\\StartupConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\Controllers\\SongsController.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "LabProject.Api\\Controllers\\SongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "LabProject.Api\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "LabProject.Api\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:31:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LabProject.Api",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\LabProject.Api.csproj",
+              "RelativeDocumentMoniker": "LabProject.Api\\LabProject.Api.csproj",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\LabProject.Api.csproj",
+              "RelativeToolTip": "LabProject.Api\\LabProject.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T10:31:31.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LabProject.Api.csproj",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Api\\LabProject.Api.csproj",
+              "RelativeDocumentMoniker": "LabProject.Api\\LabProject.Api.csproj",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Api\\LabProject.Api.csproj",
+              "RelativeToolTip": "LabProject.Api\\LabProject.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T10:30:52.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LabProject.Core.csproj",
+              "DocumentMoniker": "D:\\Tema1DotNet\\LabProject.Core\\LabProject.Core.csproj",
+              "RelativeDocumentMoniker": "LabProject.Core\\LabProject.Core.csproj",
+              "ToolTip": "D:\\Tema1DotNet\\LabProject.Core\\LabProject.Core.csproj",
+              "RelativeToolTip": "LabProject.Core\\LabProject.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T10:30:51.496Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
